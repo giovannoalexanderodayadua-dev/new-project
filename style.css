@@ -1,0 +1,11 @@
+@media (min-width: 700px) {
+    h1 {
+        color: red;
+    }
+}
+
+@media (orientation: portrait) and (max-width:700px){
+    h1 {
+        color: blue;
+    }
+} 
